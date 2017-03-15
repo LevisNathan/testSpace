@@ -10,7 +10,7 @@ def getCheese():
     return 'A bit of Mozzarella cheese'
 
 def getSauce():
-    return 'some fire hot sauee!!!'
+    return 'some White & garlic sause'
 
 def getIngredients():
     return [
